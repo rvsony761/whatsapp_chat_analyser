@@ -1,0 +1,1299 @@
+1/1/22, 8:46 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+1/1/22, 8:46 PM - Sangam Bhai 315 Cu: <Media omitted>
+1/1/22, 8:50 PM - Sangam Bhai 315 Cu: आप सभी को सपरिवार नववर्ष  2022 की हार्दिक शुभकामनाएँ 💐💐💐🎂🎂💐💐💐🙏🏻🙏🏻
+1/1/22, 8:50 PM - Rohit Verma: Happy new year bro
+2/10/22, 4:23 PM - Rohit Verma: Hlo bro
+2/10/22, 9:28 PM - Sangam Bhai 315 Cu: Yeah bro .
+2/10/22, 9:32 PM - Rohit Verma: Kesa h bhai
+2/10/22, 10:13 PM - Sangam Bhai 315 Cu: #include <iostream>
+using namespace std;
+int main()
+{
+    int n=0;
+  cin>>n;
+  int sum=0;
+  for(int i=0; i<n; i++)
+  {
+    int a=0,b=0;
+    cin>>a>>b;
+    sum+=(a*b);
+
+  }
+cout<<sum<<endl;  
+  return 0;
+}
+
+
+aSSIGMENT 2.2
+2/10/22, 10:16 PM - Rohit Verma: Bhai phle registration krna pdega kya exam k liye
+2/10/22, 10:16 PM - Sangam Bhai 315 Cu: nahi
+2/10/22, 10:16 PM - Rohit Verma: Kyuki my courses m to agya m
+2/10/22, 10:16 PM - Sangam Bhai 315 Cu: wo feb mein ayega deadline
+2/10/22, 10:17 PM - Rohit Verma: Week 0 1 2 3 show ho rha h only
+2/10/22, 10:17 PM - Sangam Bhai 315 Cu: han
+2/10/22, 10:17 PM - Rohit Verma: But assignment ka option ni h
+2/10/22, 10:17 PM - Sangam Bhai 315 Cu: click on week 1
+2/10/22, 10:17 PM - Rohit Verma: Quiz and assignment
+2/10/22, 10:17 PM - Sangam Bhai 315 Cu: han mil gaya
+2/10/22, 10:18 PM - Sangam Bhai 315 Cu: wahi h check karo pehla
+2/10/22, 10:18 PM - Rohit Verma: But mera kuch submitted nhi h
+2/10/22, 10:18 PM - Sangam Bhai 315 Cu: okay answers aa rahe   h?
+2/10/22, 10:18 PM - Rohit Verma: Nhi
+2/10/22, 10:18 PM - Sangam Bhai 315 Cu: questions k neeche
+2/10/22, 10:21 PM - Sangam Bhai 315 Cu: int main()
+{
+  int a,b;
+  cin>>a>>b;
+  for(int i=0; i<a; i++)
+  {cout<<"X";}
+  for(int i=0; i<b; i++)
+  {cout<<"Y";}
+  
+  return 0;
+}
+2/10/22, 10:21 PM - Sangam Bhai 315 Cu: assign 1.1
+2/10/22, 10:22 PM - Sangam Bhai 315 Cu: assignment 1..2
+
+#include<iostream>
+using namespace std;
+int main()
+{
+  int a;
+  cin>>a;
+  for(int i=0;i<=a; i++)
+  {
+    cout<<"*";
+    if(i!=a)
+    {cout<<endl;}
+  }
+  for(int i=0;i<a; i++)
+  {
+    cout<<"*";
+  }
+  
+  return 0;
+}
+2/10/22, 10:22 PM - Sangam Bhai 315 Cu: This message was deleted
+2/10/22, 10:23 PM - Sangam Bhai 315 Cu: Assigment 2.2
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n=0;
+  cin>>n;
+  int sum=0;
+  for(int i=0; i<n; i++)
+  {
+    int a=0,b=0;
+    cin>>a>>b;
+    sum+=(a*b);
+
+  }
+cout<<sum<<endl;  
+  return 0;
+}
+2/10/22, 10:24 PM - Sangam Bhai 315 Cu: This message was deleted
+2/10/22, 11:06 PM - Rohit Verma: int main()
+{
+int N,i,A,B,C=0,D,sum;
+cin>>N;
+repeat(N)
+{
+cin>>A>>B;
+sum = A+B+C;
+if(sum>9)
+{
+D = sum % 10;
+C = sum/10;
+}
+else
+{
+D = sum;
+C = 0;
+}
+cout<<D<<endl;
+}
+cout<<C<<endl;
+}
+2/10/22, 11:06 PM - Rohit Verma: assignment 2.1
+2/10/22, 11:10 PM - Sangam Bhai 315 Cu: Assignment 2.1
+int main()
+{
+    int N,a,b;
+    int s,q=0,r;
+    cin>>N;
+    
+    for(int i=0; i<N; i++)
+    {
+        cin>>a>>b;
+        s=(a+b)+q;
+        q=s/10;
+        r=s%10;
+        cout<<r<<endl;
+    }
+     cout<<q;
+
+
+    return 0;
+
+}
+2/12/22, 1:12 PM - Rohit Verma: Yr ek kaam krde vo beee physics aur autocad ki worksheet bhej de bhai
+2/12/22, 1:12 PM - Rohit Verma: Jo bhi ho tere pass
+2/13/22, 7:30 PM - Sangam Bhai 315 Cu: https://drive.google.com/drive/folders/1GwhdiQIo7h-vbomx_RZRCJlLVURilDVI?usp=sharing
+2/13/22, 7:31 PM - Sangam Bhai 315 Cu: https://drive.google.com/drive/folders/1Gx4gQKaKwnNBFEtMwnOEbHHTOcZW6TLg?usp=sharing
+2/13/22, 7:31 PM - Sangam Bhai 315 Cu: https://drive.google.com/drive/folders/1UQVPvTUWfPmkwqwD8KyP8CvEudCO7fSa?usp=sharing
+2/13/22, 7:34 PM - Sangam Bhai 315 Cu: tu bhi DE WOrkshop aur Bio k bhej dene
+2/13/22, 7:34 PM - Sangam Bhai 315 Cu: ok
+2/13/22, 7:39 PM - Rohit Verma: Bhai bio ki worksheet ni hoti
+2/13/22, 7:39 PM - Rohit Verma: Only de
+2/13/22, 7:39 PM - Sangam Bhai 315 Cu: no worries jo bhi h wo
+2/13/22, 7:39 PM - Sangam Bhai 315 Cu: ok
+2/13/22, 7:40 PM - Rohit Verma: Drive se bheju yr
+2/13/22, 7:40 PM - Rohit Verma: Ya fir WhatsApp kru
+2/13/22, 7:40 PM - Sangam Bhai 315 Cu: jaise tumhra man kare
+2/13/22, 7:40 PM - Rohit Verma: Bhai direct worksheet WhatsApp krdunga
+2/13/22, 7:40 PM - Rohit Verma: Easy rhega terko
+2/13/22, 7:41 PM - Sangam Bhai 315 Cu: speed post se hi bhej dena🤣
+2/13/22, 7:41 PM - Rohit Verma: Bilkul
+2/13/22, 7:41 PM - Rohit Verma: Bhai yr unit 2 ki jo worksheet thi vo handwritten li thi hmse mam ne
+2/13/22, 7:42 PM - Sangam Bhai 315 Cu: koi nahi
+2/13/22, 7:42 PM - Rohit Verma: Aur uski photo bhi ni pdi
+2/13/22, 7:42 PM - Rohit Verma: Baki unit 1 ki complete pdi h docx m vo bhej dunga
+2/13/22, 7:42 PM - Sangam Bhai 315 Cu: ok ok
+2/13/22, 7:43 PM - Rohit Verma: Hmm
+2/13/22, 7:43 PM - Rohit Verma: Thanks yr
+2/13/22, 7:43 PM - Rohit Verma: Bdi help miljegi inse ab
+2/13/22, 7:43 PM - Sangam Bhai 315 Cu: <Media omitted>
+2/14/22, 11:49 AM - Rohit Verma: <Media omitted>
+2/14/22, 11:49 AM - Rohit Verma: <Media omitted>
+2/14/22, 11:49 AM - Rohit Verma: <Media omitted>
+2/14/22, 11:49 AM - Rohit Verma: <Media omitted>
+2/19/22, 12:35 AM - Sangam Bhai 315 Cu: Waah bro...bilkul sahi h
+
+
+Amazing....
+
+Inspirational.....👍🏼👍🏼👍🏼
+2/19/22, 2:03 PM - Rohit Verma: Sangam yr ek baat btayega kya
+2/19/22, 3:44 PM - Rohit Verma: Yr m student preference form fill krna bhul gya
+2/19/22, 3:44 PM - Rohit Verma: Ab ye ni pta automatically pta ni kya hoyega
+2/19/22, 3:45 PM - Rohit Verma: Aur yr academic unit 4 m jake tu pta krdega kya ki kya hoyega change bhi hojega kya ab
+2/19/22, 5:24 PM - Sangam Bhai 315 Cu: Okay 👍 on moday open hoga tab..
+2/19/22, 5:28 PM - Rohit Verma: Hm bhai jrur yr Monday ko open hoyega tb jrur puch k aajaiyo
+2/19/22, 5:33 PM - Sangam Bhai 315 Cu: 👍🏼
+2/19/22, 5:39 PM - Rohit Verma: Yr shi m isi baat ki tension hori h aur koi frnd hostel m nhi h abhi
+2/19/22, 5:40 PM - Sangam Bhai 315 Cu: Koi tension nahi lo bro...
+I'll ask them...
+2/19/22, 5:41 PM - Sangam Bhai 315 Cu: <Media omitted>
+2/19/22, 5:44 PM - Rohit Verma: Hm ab koi tension ni kyuki tu puch dega ek baar aur mail krne m vese puchne m frk hota h thoda na
+2/19/22, 6:34 PM - Rohit Verma: Bs tension ye h ki change na hua to aur automatic online na hoje
+2/19/22, 10:49 PM - Sangam Bhai 315 Cu: waise toh change ho jaana chaahiye ..
+last semester mere class mein bahut baccho ne kiya tha online to offline.
+2/19/22, 10:54 PM - Rohit Verma: Hmm ho to jana chiye yr
+2/19/22, 10:54 PM - Rohit Verma: Bs thodi si tension si bhi to hoti hi h yr
+2/20/22, 9:16 PM - Rohit Verma: Sangam bhai c++ki worksheet 1.1 bnai h kya
+2/20/22, 10:33 PM - Sangam Bhai 315 Cu: <Media omitted>
+2/22/22, 7:13 PM - Sangam Bhai 315 Cu: studentcare@cumail.in
+bro dsw wale ne kaha tha
+ispar apne problem likh kr mail kr dena ..
+2/22/22, 7:13 PM - Sangam Bhai 315 Cu: aur apne hod ka mail cc mein add kr dena
+for a faster response!\
+2/22/22, 7:14 PM - Rohit Verma: Acha bhsi
+2/22/22, 7:14 PM - Rohit Verma: Bhai yhi krta hu abhi
+2/22/22, 7:56 PM - Sangam Bhai 315 Cu: hmm
+3/2/22, 10:06 PM - Sangam Bhai 315 Cu: https://www.codechef.com/START28D/problems/QUALIFY
+3/2/22, 10:07 PM - Sangam Bhai 315 Cu: https://www.codechef.com/START28D/problems/INSTNOODLE
+3/2/22, 10:07 PM - Sangam Bhai 315 Cu: https://www.codechef.com/START28D/problems
+3/2/22, 10:07 PM - Rohit Verma: Thanks bro
+3/2/22, 10:07 PM - Sangam Bhai 315 Cu: 👍🏻
+3/14/22, 9:33 PM - Rohit Verma: Bhai tune academic research paper m LinkedIn m enroll kiya h kya
+3/14/22, 9:33 PM - Rohit Verma: Uski quizzes bhi krni h
+3/14/22, 10:13 PM - Sangam Bhai 315 Cu: Han
+3/14/22, 10:13 PM - Sangam Bhai 315 Cu: Meine  abhi video start h ki h
+3/14/22, 10:15 PM - Rohit Verma: Quiz to kr li mne
+3/14/22, 10:15 PM - Sangam Bhai 315 Cu: Saare
+3/14/22, 10:15 PM - Sangam Bhai 315 Cu: ??
+3/14/22, 10:16 PM - Rohit Verma: Hm
+3/14/22, 10:16 PM - Rohit Verma: 10 ques bhi ni h syd
+3/14/22, 10:30 PM - Sangam Bhai 315 Cu: <Media omitted>
+3/14/22, 10:30 PM - Sangam Bhai 315 Cu: <Media omitted>
+3/14/22, 10:30 PM - Sangam Bhai 315 Cu: <Media omitted>
+3/14/22, 10:35 PM - Rohit Verma: <Media omitted>
+3/14/22, 10:35 PM - Rohit Verma: <Media omitted>
+3/14/22, 10:36 PM - Rohit Verma: LinkedIn ka aagya certificate
+3/14/22, 10:36 PM - Rohit Verma: Mera
+3/14/22, 10:36 PM - Sangam Bhai 315 Cu: https://www.instagram.com/ar/289073729933364/?ch=ZWNjOTQ0OTdlMTA2ZTU5ZWIwYjRhNzNhZmY4ODJiYWI%3D
+3/14/22, 10:36 PM - Sangam Bhai 315 Cu: https://www.instagram.com/ar/245492624464186/?ch=Y2YxMGE5ZjE0OGQ2M2Y2ZWUzOTJkMDJlNzBkMzU3OTQ%3D
+3/14/22, 10:36 PM - Sangam Bhai 315 Cu: Great 👍
+3/14/22, 10:38 PM - Sangam Bhai 315 Cu: <Media omitted>
+3/14/22, 10:38 PM - Sangam Bhai 315 Cu: Blip ar wala
+3/14/22, 10:39 PM - Rohit Verma: 👍👍😁
+3/14/22, 10:39 PM - Sangam Bhai 315 Cu: <Media omitted>
+3/14/22, 10:39 PM - Rohit Verma: Mast bna rhe h
+3/14/22, 10:40 PM - Sangam Bhai 315 Cu: Han😊.
+Kabhi kabhi artist jaag jaata h🤭🤭
+3/14/22, 10:41 PM - Rohit Verma: Chapter quiz 1 k dono ans c ha
+3/14/22, 10:41 PM - Rohit Verma: Chapter quiz 3 ka ans b
+3/14/22, 10:41 PM - Rohit Verma: Chapter quiz 2 ka ans b
+3/14/22, 10:41 PM - Rohit Verma: Final exam k ans A D A A C
+3/14/22, 10:45 PM - Sangam Bhai 315 Cu: Thank you broo✨✨
+3/15/22, 9:20 PM - Rohit Verma: Bhai nptel ki week 7 ki quiz and assignment h kya
+3/15/22, 9:40 PM - Sangam Bhai 315 Cu: Ok I'll send it to you
+3/15/22, 10:05 PM - Sangam Bhai 315 Cu: Konsa chahiya
+3/15/22, 10:08 PM - Rohit Verma: Week 7 quiz and assignment both
+3/15/22, 10:11 PM - Sangam Bhai 315 Cu: Aree bhai course??
+3/15/22, 10:15 PM - Sangam Bhai 315 Cu: https://quizermania.com/an-introduction-to-programming-through-c-nptel-2022-week-7-answers/
+3/15/22, 10:21 PM - Rohit Verma: Thanks bhai
+3/15/22, 10:21 PM - Sangam Bhai 315 Cu: 👍
+3/18/22, 8:30 PM - Sangam Bhai 315 Cu: 🤣🤣
+4/20/22, 10:18 PM - Rohit Verma: sangam bhai week 12 ki assignment ki c++ ki nptel m
+4/20/22, 10:50 PM - Sangam Bhai 315 Cu: *An Introduction to Programming Through C++ [NPTEL]*  
+*[FULL SOLUTIONS WEEK 12]*
+*********************************************************************
+
+*Quiz: Week 12 : Assignment 12* (Due date: 2022-04-20, 23:59 IST.)
+
+Q1 : 91
+Q2 : 3
+Q 3 : -12
+Q 4 : 50
+Q 5 : Whether any cities are stored for India in citiesInCountry, (0: none, 1: some).
+Q 6 : c 
+Q7  : (a)euler1 will return the exactly correct answer for this case.
+         (c)euler2 will return the exactly correct answer for this case.
+Q 8 : (b)euler1 will not return the exactly correct answer for this case.
+         (d)euler2 will not return the exactly correct answer for this case.
+
+--------------------------------------------------------------------------------
+
+*Programming Assignment 12.1* (Due on 2022-04-21, 23:59 IST)
+
+string pasttense(map<string,string> &m,string &verb)
+{
+  if(m.find(verb)!=m.end())
+    return m[verb];
+  char lc=verb[verb.length()-1];
+  if(lc=='e')
+    return verb+"d";
+  return verb+"ed";
+}
+void add(map<string,string> &m,string &verb,string &pt)
+{
+  char lc=verb[verb.length()-1];
+  string past_tense="";
+  if(lc=='e')
+    past_tense=verb+"d";
+  else past_tense=verb+"ed";
+  if(past_tense!=pt)
+    m[verb]=pt;
+}
+--------------------------------------------------------------------------
+*Programming Assignment  12.2* (Due on 2022-04-21, 23:59 IST)
+
+
+int open1box(vector<int> &x, int y) {
+
+	int out = 1;
+
+	while (true) {
+		out++;
+		int temp = x[y];
+		if (temp == 0) break;
+		y = temp;
+	}
+	return out;
+}
+
+int open2boxes(vector<int> &x, int y, int z) {
+
+	int len_x = open1box(x, y),dis = 0;
+	int len_y = open1box(x, z);
+	int a[len_x], b[len_y];
+
+	a[0] = y; b[0] = z;
+	for (int i = 1; i < len_x; i++){
+		a[i] = x[y];
+		y = a[i];
+	}
+
+	for (int j = 1; j < len_y; j++) {
+		b[j] = x[z];
+		z = b[j];
+	}
+
+	int arr[len_x+len_y];
+	for (int i = 0; i < len_x+len_y; i++) {
+		if (i < len_x) arr[i] = a[i];
+		else arr[i] = b[i-len_x];
+	}
+
+	for (int i = 0; i < len_x+len_y; i++) {
+		bool flag = 1;
+		for (int j = 0; j < i; j++) {
+			if (arr[i] == arr[j]) {flag = 0; break;} 
+		}
+		if (flag) dis++;
+	}
+	return dis;
+
+}
+4/20/22, 10:52 PM - Rohit Verma: Thanks bro
+5/6/22, 6:04 PM - Sangam Bhai 315 Cu: As per conversation of HOD sir with codechef team, the assignment sets are being opened for 3 Days from today. 
+Students can start making submissions from 12:00 Noon.
+
+Here are the Links to the Assignment Sets:
+
+Week 1 Assignment: https://www.codechef.com/CU1AP0001
+Week 2 Assignment: https://www.codechef.com/CU1AP0002
+Week 3 Assignment: https://www.codechef.com/CU1AP0003
+Week 4 Assignment: https://www.codechef.com/CU1AP0004
+Week 5 Assignment: https://www.codechef.com/CU1AP0005
+Week 6 Assignment: https://www.codechef.com/CU1AP0006
+
+The above sets are re-opened, in addition to that the current week assignment is already open, the link to the same is:
+
+https://www.codechef.com/CU1AP0007
+
+The Timings for the re-opened sets are as follows:
+
+Start time: 6th May, 2022 at 12:00 Noon
+End time: 9th May, 2022 at 12:00 Noon
+Duration: 3 Days
+
+The currently running Week 7 Set, students can make submissions till 13th May, 2022 at 00:00 Hrs. 
+Also, the restriction is removed from the contest pages, students can now access them freely.
+5/6/22, 9:53 PM - Sangam Bhai 315 Cu: https://www.codechef.com/CU1AP0006  *[WEEK 6 ASSIGNMENT ]*
+
+
+Start time: 28th April, 2022 at 7:00 PM
+End time: 5th May, 2022 at 7:00 PM
+Duration: 7 Days ( 1 Week )
+
+**********************************************
+
+Q: https://www.codechef.com/CU1AP0006/problems/PAIRPR1   [ *Pair of primes* ]
+
+
+#include <iostream>
+using namespace std;
+
+bool check_prime(int n);
+int main()
+{
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        int n,i;
+        bool flag=false;
+        cin >> n;
+        for(i = 2; i <= n/2; ++i)
+        {
+            if (check_prime(i))
+            {
+                if (check_prime(n - i))
+                {
+                    cout<<i<<" "<<n-i<<endl;
+                    flag = true;
+                    break;
+                }
+            }
+        }
+        if (!flag)
+        cout<<-1 <<" "<<-1<<endl;
+    }
+  return 0;
+}
+bool check_prime(int n)
+{
+    int i;
+    bool is_prime=true;
+    if(n==0||n==1)
+    {
+        is_prime = false;
+    }
+    for(i = 2; i <= n/2; ++i)
+    {
+        if(n%i==0)
+        {
+            is_prime = false;
+            break;
+        }
+    }
+    return is_prime;
+}
+5/6/22, 9:53 PM - Sangam Bhai 315 Cu: https://www.codechef.com/CU1PP0007   *[WEEK 7 PRACTICE]*
+
+Start time: 28th April, 2022 at 7:00 PM
+End time: 5th May, 2022 at 7:00 PM
+Duration: 7 Days ( 1 Week )
+
+**********************************************
+
+Q1: https://www.codechef.com/CU1PP0007/problems/BLACKCEL    [ *Black cells in a chessboard* ]
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int num;
+    cin>>num;
+    cout<<(num*num)/2<<endl;
+}
+
+
+
+--------------------------------------------------
+
+Q2: https://www.codechef.com/CU1PP0007/problems/FODCHAIN  [ *Food Chain* ]
+
+#include <bits/stdc++.h>
+using namespace std;
+#define ll long long int
+
+int main() {
+	
+	ll t;
+	cin>>t;
+		while(t--)
+		{
+	    ll E,K;
+	    ll ans=1;
+	    cin>>E>>K;
+	    while(E/K!=0){
+	        ans++;
+	        E=E/K;
+	        
+	    }
+	    cout<<ans<<endl;
+	}
+	return 0;
+}
+
+-----------------------------------------------------------
+
+Q3: https://www.codechef.com/CU1PP0007/problems/PENALTY      [ *Penalty Shots* ]
+
+
+#include<bits/stdc++.h>
+#define ll long long int 
+using namespace std;
+
+int main()
+{
+    ll t,shots[10];
+    cin>>t;
+    while(t--)
+    {
+        ll two_shots=0;
+        ll one_shots=0;
+        for(ll i=0; i<10;i++){
+            cin>>shots[i];
+        }
+        for(ll j=0 ;j<10;j++)
+        {
+            if(j%2==0)
+            {
+                if(shots[j]==1)
+                {
+                    two_shots ++;
+                }  
+            }
+            else if(j%2==1)
+            {
+                if(shots[j]==1)
+                {
+                    one_shots ++;
+                }
+            }
+        }
+        if(one_shots>two_shots)
+        {
+            cout<<2<<endl;
+        }
+        else if(one_shots==two_shots)
+        {
+            cout<<0<<endl;
+        }
+        else
+        {
+            cout<<1<<endl;
+        }
+        
+        
+    }
+    
+}
+
+-----------------------------------------------------------
+
+Q4:  https://www.codechef.com/CU1PP0007/problems/XLSQUARE   [ *Large Square* ]
+
+#include<bits/stdc++.h>
+#define ll long long int 
+using namespace std;
+
+int main()
+{
+    ll t,n,a;
+    cin>>t;
+    while(t--)
+    {
+        cin>>n>>a;
+        ll k=sqrt(n);
+        cout<<k*a<<endl;
+        
+        
+    }
+    
+}
+
+
+
+-----------------------------------------------------------
+
+Q5: https://www.codechef.com/CU1PP0007/problems/MAKEDIV3   [ *Make it Divisible* ]
+
+
+#include<bits/stdc++.h>
+using namespace std;
+#define ll long long
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+	ll t;
+	cin>>t;
+	while(t--){
+	    ll n;
+	    cin>>n;
+	    
+	    for(ll i=1;i<=n;i++){
+	        if(i==1 || i==n){
+	            cout<<'3';
+	        }
+	        else{
+	            cout<<'0';
+	        }
+	    }
+	    cout<<endl;
+	}
+	return 0;
+}
+5/6/22, 10:04 PM - Rohit Verma: chrome://extensions/?id=nbcojefnccbanplpoffopkoepjmhgdgh
+5/6/22, 10:36 PM - Sangam Bhai 315 Cu: naam send  kar bhi
+5/6/22, 10:38 PM - Rohit Verma: hoxx vpn
+5/6/22, 10:38 PM - Sangam Bhai 315 Cu: Thnk s
+5/6/22, 10:43 PM - Rohit Verma: Hogya download
+5/6/22, 10:43 PM - Sangam Bhai 315 Cu: ab multiverse of madness download kr raha hun
+5/6/22, 10:44 PM - Rohit Verma: Ye movie ya kuch aur h
+5/6/22, 10:47 PM - Sangam Bhai 315 Cu: Nahi 🎥 hi
+5/7/22, 12:31 AM - Sangam Bhai 315 Cu: Bhai web page blocked show ho Raha h
+5/7/22, 12:45 AM - Rohit Verma: Are yr
+5/7/22, 12:45 AM - Rohit Verma: Mne to tere samne open krdi jo tu cha rha tha site ko
+5/7/22, 12:47 AM - Rohit Verma: Vese konsi site kr rha tu open 😂
+5/7/22, 12:47 AM - Sangam Bhai 315 Cu: Hub
+5/7/22, 12:48 AM - Rohit Verma: Smj gya vo to m
+5/7/22, 12:48 AM - Sangam Bhai 315 Cu: <Media omitted>
+5/7/22, 12:48 AM - Rohit Verma: Phle wali hi
+5/7/22, 12:48 AM - Sangam Bhai 315 Cu: <Media omitted>
+5/7/22, 12:48 AM - Sangam Bhai 315 Cu: Ki thi nahi hua..
+5/7/22, 12:49 AM - Sangam Bhai 315 Cu: Ab koi nahi multiverse of madness dekhunga
+5/7/22, 12:49 AM - Rohit Verma: Vese tere m hi web block show rha h yr
+5/7/22, 12:49 AM - Rohit Verma: Pta ni kyu
+5/7/22, 12:49 AM - Sangam Bhai 315 Cu: Chal koi na kisi din dekh liyo
+5/7/22, 12:50 AM - Sangam Bhai 315 Cu: Abhi toh Marvel✨✨✨
+5/7/22, 12:50 AM - Rohit Verma: Hmm
+5/7/22, 12:50 AM - Sangam Bhai 315 Cu: <Media omitted>
+5/7/22, 12:50 AM - Rohit Verma: Marvel ki series ni dekhi mne
+5/7/22, 12:51 AM - Rohit Verma: Dekhunga kbhi
+5/7/22, 12:51 AM - Sangam Bhai 315 Cu: Are bhai😳
+5/7/22, 12:51 AM - Rohit Verma: Iron man ko chorke
+5/7/22, 12:51 AM - Sangam Bhai 315 Cu: 3000mins total endgame tak
+5/7/22, 12:51 AM - Rohit Verma: Bhai saab
+5/7/22, 12:51 AM - Rohit Verma: Dekhte h kbhi
+5/7/22, 12:52 AM - Sangam Bhai 315 Cu: Thik h bhi ttu moj kr disturb ho gaya hoga😏
+5/7/22, 12:52 AM - Sangam Bhai 315 Cu: Hand-some boy😳😅
+5/7/22, 12:54 AM - Rohit Verma: Are nhi bhai
+5/7/22, 12:54 AM - Rohit Verma: Bs ab sone ki tyari m hu
+5/7/22, 12:54 AM - Sangam Bhai 315 Cu: 😂
+5/7/22, 12:54 AM - Rohit Verma: Hmm
+5/7/22, 12:54 AM - Sangam Bhai 315 Cu: Good night😴💤
+5/7/22, 3:15 PM - Rohit Verma: Bhai only codechef
+5/7/22, 3:15 PM - Rohit Verma: Ki assignment krni h
+5/7/22, 3:16 PM - Rohit Verma: Ya fir practice problems bhi
+5/7/22, 4:21 PM - Sangam Bhai 315 Cu: Only assignment
+5/22/22, 12:17 PM - Rohit Verma: Sangam bhai movies download krne ki koi achi si simple si website btao yr
+5/22/22, 1:36 PM - Sangam Bhai 315 Cu: Vega movies
+6/6/22, 10:32 PM - Rohit Verma: <Media omitted>
+6/6/22, 10:32 PM - Rohit Verma: Sangam bhai isme se konda course select kiya h tune
+6/6/22, 10:46 PM - Sangam Bhai 315 Cu: hamara institutional training wala h....
+6/6/22, 10:47 PM - Sangam Bhai 315 Cu: <Media omitted>
+6/6/22, 10:47 PM - Sangam Bhai 315 Cu: and I chose virtualisation
+6/6/22, 10:50 PM - Sangam Bhai 315 Cu: Agar isme se mujhe milta toh
+6/6/22, 10:51 PM - Sangam Bhai 315 Cu: Cloud computing choose karta ....thoda tough h..
+Lekin application wide h ...
+6/6/22, 10:51 PM - Sangam Bhai 315 Cu: Baki tumhara Jo man kare ...
+6/6/22, 10:51 PM - Sangam Bhai 315 Cu: Okay
+6/6/22, 11:00 PM - Rohit Verma: Acha yr
+6/7/22, 8:08 AM - Rohit Verma: Mne full stack cybersecurity and operating system choose kiya preferences m
+6/7/22, 12:00 PM - Rohit Verma: Bhai cpp k ques kr liyo ho to iuch bhej de bhai
+6/7/22, 12:00 PM - Rohit Verma: Aj kuch nj mil rhe
+6/7/22, 4:52 PM - Sangam Bhai 315 Cu: Hi gaya thik thak
+6/25/22, 8:34 PM - Rohit Verma: For a collection of integers S, define mex(S) as the smallest non-negative integer that does not appear in S.
+
+NIT, the cleaver, decides to destroy the universe. He is not so powerful as Thanos, so he can only destroy the universe by snapping his fingers several times.
+
+The universe can be represented as a 1-indexed array a of length n. When NIT snaps his fingers, he does the following operation on the array:
+
+He selects positive integers l and r such that 1≤l≤r≤n. Let w=mex({al,al+1,…,ar}). Then, for all l≤i≤r, set ai to w.
+We say the universe is destroyed if and only if for all 1≤i≤n, ai=0 holds.
+
+Find the minimum number of times NIT needs to snap his fingers to destroy the universe. That is, find the minimum number of operations NIT needs to perform to make all elements in the array equal to 0.
+
+Input
+Each test contains multiple test cases. The first line contains the number of test cases t (1≤t≤104). Description of the test cases follows.
+
+The first line of each test case contains one integer n (1≤n≤105).
+
+The second line of each test case contains n integers a1, a2, …, an (0≤ai≤109).
+
+It is guaranteed that the sum of n over all test cases does not exceed 2⋅105.
+
+Output
+For each test case, print one integer — the answer to the problem.
+
+Example
+inputCopy
+4
+4
+0 0 0 0
+5
+0 1 2 3 4
+7
+0 2 3 0 1 2 0
+1
+1000000000
+outputCopy
+0
+1
+2
+1
+Note
+In the first test case, we do 0 operations and all elements in the array are already equal to 0.
+
+In the second test case, one optimal way is doing the operation with l=2, r=5.
+
+In the third test case, one optimal way is doing the operation twice, respectively with l=4, r=4 and l=2, r=6.
+
+In the fourth test case, one optimal way is doing the operation with l=1, r=1.
+6/25/22, 8:34 PM - Rohit Verma: sangam yr ek ques h ye solve krne ki try kr
+6/28/22, 10:38 AM - Sangam Bhai 315 Cu: 🧹bhai Google it
+
+I haven't practiced them
+7/10/22, 6:30 PM - Sangam Bhai 315 Cu: Ye wapas bhejna
+7/10/22, 6:31 PM - Rohit Verma: Bhejta hu bhai
+7/10/22, 6:32 PM - Sangam Bhai 315 Cu: Okay
+7/10/22, 6:35 PM - Sangam Bhai 315 Cu: Mil gaya koi dikkat nahi
+7/10/22, 6:52 PM - Rohit Verma: <Media omitted>
+7/10/22, 9:26 PM - Sangam Bhai 315 Cu: Thnkxs
+7/18/22, 4:03 PM - Rohit Verma: Sangam bhai ek kaam tha
+7/18/22, 4:04 PM - Rohit Verma: Vo hostel care walo ka contact h kya
+7/18/22, 4:04 PM - Rohit Verma: Dsw ki mail id bhi
+7/18/22, 4:08 PM - Sangam Bhai 315 Cu: hostelcare@cumail.in
+7/18/22, 4:09 PM - Sangam Bhai 315 Cu: studentcare@cumail.in
+7/18/22, 4:32 PM - Rohit Verma: Thanks yr
+7/18/22, 4:32 PM - Rohit Verma: Vo fees puri bhar di tunw hostel ki
+7/18/22, 4:32 PM - Rohit Verma: ??
+7/18/22, 4:34 PM - Sangam Bhai 315 Cu: Han
+7/18/22, 5:17 PM - Rohit Verma: Yr mne 40k kri h abhi tk
+7/18/22, 5:35 PM - Sangam Bhai 315 Cu: Tera deallocate ho gaya??
+7/18/22, 5:45 PM - Rohit Verma: nhi yr abhi tk to ni nhua
+7/18/22, 5:45 PM - Rohit Verma: but keh rhe h due clear krne k luiye
+7/18/22, 6:05 PM - Sangam Bhai 315 Cu: Kardena pay ...
+7/18/22, 6:06 PM - Sangam Bhai 315 Cu: Kai bacchon k hostel deallocate ho gaye h
+7/18/22, 6:34 PM - Rohit Verma: Hmm
+7/18/22, 8:40 PM - Rohit Verma: But yr 40k to krdiye h
+7/18/22, 8:40 PM - Rohit Verma: 75k m se to
+8/20/22, 3:44 PM - Rohit Verma: Are sangam bhi video bhej puri merko kl wali
+8/21/22, 12:49 AM - Sangam Bhai 315 Cu: Konsi??
+8/21/22, 10:46 AM - Rohit Verma: Vo aarti wali janmastami wali
+8/21/22, 4:20 PM - Sangam Bhai 315 Cu: <Media omitted>
+9/27/22, 7:53 PM - Rohit Verma: Sangam bhai
+9/28/22, 2:57 PM - Sangam Bhai 315 Cu: han bhai..
+10/12/22, 11:13 PM - Rohit Verma: sangam bhai dsa ki unit 2 ki worksheets bhej de bhai
+10/12/22, 11:15 PM - Sangam Bhai 315 Cu: <Media omitted>
+10/12/22, 11:15 PM - Sangam Bhai 315 Cu: <Media omitted>
+10/12/22, 11:15 PM - Sangam Bhai 315 Cu: last yahi tak hua h
+10/12/22, 11:17 PM - Rohit Verma: chlo koi ni bhai
+11/10/22, 10:23 PM - Sangam Bhai 315 Cu: status pe porn kyu daala hai?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      In case this made your heart stop a little send it to your closest friends and see the reaction😂😂
+11/12/22, 6:35 PM - Rohit Verma: Sangam bhai sub k notes ka jugad krdo yr
+11/12/22, 6:35 PM - Rohit Verma: Pass hojege last moment pd kr thoda
+11/12/22, 6:37 PM - Sangam Bhai 315 Cu: 🤣🤣🤣
+11/12/22, 6:37 PM - Sangam Bhai 315 Cu: hamare exam tumse alag h.
+11/12/22, 6:37 PM - Rohit Verma: Are
+11/12/22, 6:38 PM - Rohit Verma: Dsa dbms nhi h
+11/12/22, 6:38 PM - Sangam Bhai 315 Cu: wo h but notes nahi ... mein toh gfg se kr krah hun
+11/12/22, 6:39 PM - Rohit Verma: Are bhai ji
+11/12/22, 6:39 PM - Sangam Bhai 315 Cu: wo notes hi h...
+11/12/22, 6:39 PM - Rohit Verma: Dekhte h thoda sa krke
+11/12/22, 7:03 PM - Sangam Bhai 315 Cu: hmm
+11/26/22, 11:46 PM - Sangam Bhai 315 Cu: 💯
+12/2/22, 2:11 PM - Sangam Bhai 315 Cu: <Media omitted>
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: *IMP. TOPICS DS*
+
+*Unit 1*
+
+ Array, its operations and memory Representation
+Linked List, its operations and Memory Representation
+Searching and Sorting Algorithms
+
+*Unit 2*
+
+Stack Operations, Applications Expression Evaluation, Conversion
+Queue and Its Operations
+Graphs, types, Traversal, Spanning Tree and MST
+
+Unit 3
+
+Tree DS, Types of Trees, Tree Construction Binary, Binary Search Tree, AVL, B, B+ Trees, Tree Traversal and Other Operations
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Algorithm to search an element in Binary search tree
+Search (root, item)  
+Step 1 - if (item = root → data) or (root = NULL)  
+return root  
+else if (item < root → data)  
+return Search(root → left, item)  
+else  
+return Search(root → right, item)  
+END if  
+Step 2 - END
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: *InsertionSort(array)*
+
+  mark first element as sorted
+  for each unsorted element X
+    'extract' the element X
+    for j <- lastSortedIndex down to 0
+      if current element j > X
+        move sorted element to the right by 1
+    break loop and insert X here
+end insertionSort
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: *SELECTION SORT(arr, n)*
+  
+Step 1: Repeat Steps 2 and 3 for i = 0 to n-1  
+Step 2: CALL SMALLEST(arr, i, n, pos)  
+Step 3: SWAP arr[i] with arr[pos]  
+[END OF LOOP]  
+Step 4: EXIT  
+  
+SMALLEST (arr, i, n, pos)  
+Step 1: [INITIALIZE] SET SMALL = arr[i]  
+Step 2: [INITIALIZE] SET pos = i  
+Step 3: Repeat for j = i+1 to n  
+if (SMALL > arr[j])  
+     SET SMALL = arr[j]  
+SET pos = j  
+[END OF if]  
+[END OF LOOP]  
+Step 4: RETURN pos
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: *begin BubbleSort(arr)*
+   for all array elements  
+      if arr[i] > arr[i+1]  
+         swap(arr[i], arr[i+1])  
+      end if  
+   end for     
+   return arr     
+end BubbleSort
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: *MERGE_SORT(arr, beg, end)* 
+  
+if beg < end  
+set mid = (beg + end)/2  
+MERGE_SORT(arr, beg, mid)  
+MERGE_SORT(arr, mid + 1, end)  
+MERGE (arr, beg, mid, end)  
+end of if  
+  
+END MERGE_SORT
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: *quickSort(array, leftmostIndex, rightmostIndex)*
+  if (leftmostIndex < rightmostIndex)
+    pivotIndex <- partition(array,leftmostIndex, rightmostIndex)
+    quickSort(array, leftmostIndex, pivotIndex - 1)
+    quickSort(array, pivotIndex, rightmostIndex)
+
+partition(array, leftmostIndex, rightmostIndex)
+  set rightmostIndex as pivotIndex
+  storeIndex <- leftmostIndex - 1
+  for i <- leftmostIndex + 1 to rightmostIndex
+  if element[i] < pivotElement
+    swap element[i] and element[storeIndex]
+    storeIndex++
+  swap pivotElement and element[storeIndex+1]
+return storeIndex + 1
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: // Algorithm of heapsort
+heapsort(array, n, index) {
+    size = array.size()
+largest = index
+    left = 2 * index + 1
+    right = 2 * index + 2
+    if left < n && arr[left] > arr[largest]
+        largest = left
+    if right < n && arr[right] > arr[largest]
+        largest = right
+      if largest != index {
+        swap arr[index], arr[largest]
+        heapify(arr, n, largest)
+    }
+}
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Linear_Search(a, n, val) // 'a' is the given array, 'n' is the size of given array, 'val' is the value to search  
+Step 1: set pos = -1  
+Step 2: set i = 1  
+Step 3: repeat step 4 while i <= n  
+Step 4: if a[i] == val  
+set pos = i  
+print pos  
+go to step 6  
+[end of if]  
+set ii = i + 1  
+[end of loop]  
+Step 5: if pos = -1  
+print "value is not present in the array "  
+[end of if]  
+Step 6: exit
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Binary_Search(a, lower_bound, upper_bound, val) // 'a' is the given array, 'lower_bound' is the index of the first array element, 'upper_bound' is the index of the last array element, 'val' is the value to search  
+Step 1: set beg = lower_bound, end = upper_bound, pos = - 1  
+Step 2: repeat steps 3 and 4 while beg <=end  
+Step 3: set mid = (beg + end)/2  
+Step 4: if a[mid] = val  
+set pos = mid  
+print pos  
+go to step 6  
+else if a[mid] > val  
+set end = mid - 1  
+else  
+set beg = mid + 1  
+[end of if]  
+[end of loop]  
+Step 5: if pos = -1  
+print "value is not present in the array"  
+[end of if]  
+Step 6: exit
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: File organization indicates how the records are organized in a file. There are different types of organizations for files so as to increase their efficiency of accessing the records. Following are the types of file organization schemes −
+
+Sequential file organization
+Indexed sequential file organization
+Relative file organization
+Inverted file organization 
+
+A sequential file consists of records that are stored and accessed in sequential order. 
+Syntax
+Following is the syntax of sequential file organization −
+INPUT-OUTPUT SECTION.
+FILE-CONTROL.
+   SELECT file-name ASSIGN TO dd-name-jcl
+   ORGANIZATION IS SEQUENTIAL
+
+An indexed sequential file consists of records that can be accessed sequentially. Direct access is also possible. It consists of two parts −
+Data File contains records in sequential scheme.
+Index File contains the primary key and its address in the data file.
+Syntax
+Following is the syntax of indexed sequential file organization −
+INPUT-OUTPUT SECTION.
+FILE-CONTROL.
+   SELECT file-name ASSIGN TO dd-name-jcl
+   ORGANIZATION IS INDEXED
+   RECORD KEY IS primary-key
+   ALTERNATE RECORD KEY IS rec-key
+
+Relative File Organization
+A relative file consists of records ordered by their relative address. 
+Syntax
+Following is the syntax of relative file organization −
+INPUT-OUTPUT SECTION.
+FILE-CONTROL.
+   SELECT file-name ASSIGN TO dd-name-jcl
+   ORGANIZATION IS RELATIVE
+   RELATIVE KEY IS rec-key
+
+
+An Inverted file is an index data structure that maps content to its location within a database file, in a document or in a set of documents.
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Evaluation of postfix expression
+Algorithm
+Scan the input string from left to right.
+
+For each input symbol,
+
+If it is a digit then, push it on to the stack.
+
+If it is an operator then, pop out the top most two contents from the stack and apply the operator on them. Later on, push the result on to stack.
+
+If the input symbol is ‘\0’, empty the stack.
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Another algorithm 
+
+
+Step 1: Create an operand stack.
+Step 2: If the character is an operand, push it to the operand stack.
+Step 3: If the character is an operator, pop two operands from the stack, operate and push the result back to the stack.
+Step 4:After the entire expression has been traversed, pop the final result from the stack.
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Evaluation of postfix expression
+Algorithm
+Scan the input string from left to right.
+
+For each input symbol,
+
+If it is a digit then, push it on to the stack.
+
+If it is an operator then, pop out the top most two contents from the stack and apply the operator on them. Later on, push the result on to stack.
+
+If the input symbol is ‘\0’, empty the stack.
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Another algorithm 
+
+
+Step 1: Create an operand stack.
+Step 2: If the character is an operand, push it to the operand stack.
+Step 3: If the character is an operator, pop two operands from the stack, operate and push the result back to the stack.
+Step 4:After the entire expression has been traversed, pop the final result from the stack.
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: BFS ALGORITHM
+Step 1: SET STATUS = 1 (ready state) for each node in G
+
+Step 2: Enqueue the starting node A and set its STATUS = 2 (waiting state)
+
+Step 3: Repeat Steps 4 and 5 until QUEUE is empty
+
+
+Step 4: Dequeue a node N. Process it and set its STATUS = 3 (processed state).
+
+Step 5: Enqueue all the neighbours of N that are in the ready state (whose STATUS = 1) and set
+
+their STATUS = 2
+
+(waiting state)
+
+[END OF LOOP]
+
+Step 6: EXIT
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: DFS ALGORITHM
+Step 1: SET STATUS = 1 (ready state) for each node in G
+
+Step 2: Push the starting node A on the stack and set its STATUS = 2 (waiting state)
+
+Step 3: Repeat Steps 4 and 5 until STACK is empty
+
+
+Step 4: Pop the top node N. Process it and set its STATUS = 3 (processed state)
+
+Step 5: Push on the stack all the neighbors of N that are in the ready state (whose STATUS = 1) and set their STATUS = 2 (waiting state)
+
+[END OF LOOP]
+
+Step 6: EXIT
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Spanning tree - A spanning tree is the subgraph of an undirected connected graph.
+
+Minimum Spanning tree - Minimum spanning tree can be defined as the spanning tree in which the sum of the weights of the edge is minimum. The weight of the spanning tree is the sum of the weights given to the edges of the spanning tree.
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Prim's Algorithm is a greedy algorithm that is used to find the minimum spanning tree from a graph. Prim's algorithm finds the subset of edges that includes every vertex of the graph such that the sum of the weights of the edges can be minimized.
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Prims Algorithm
+Step 1: Select a starting vertex  
+Step 2: Repeat Steps 3 and 4 until there are fringe vertices  
+Step 3: Select an edge 'e' connecting the tree vertex and fringe vertex that has minimum weight  
+Step 4: Add the selected edge and the vertex to the minimum spanning tree T  
+[END OF LOOP]  
+Step 5: EXIT
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Algorithm for pop:
+
+begin
+ if stack is empty
+    return
+ endif
+else
+ store value of stack[top]
+ decrement top
+ return value
+end else
+end procedure
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Top:
+Returns the top element of the stack.
+
+Algorithm for Top:
+
+begin 
+  return stack[top]
+end procedure
+isEmpty:
+Returns true if the stack is empty, else false.
+
+Algorithm for isEmpty:
+
+begin
+ if top < 1
+    return true
+ else
+    return false
+end procedure
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Algorithm for push:
+
+begin
+ if stack is full
+    return
+ endif
+else  
+ increment top
+ stack[top] assign value
+end else
+end procedure
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Algorithm for enqueue operation
+procedure enqueue(data)      
+   
+   if queue is full
+      return overflow
+   endif
+   
+   rear ← rear + 1
+   queue[rear] ← data
+   return true
+   
+end procedure
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: The following steps should be taken to enqueue (insert) data into a queue −
+
+Step 1 − Check if the queue is full.
+
+Step 2 − If the queue is full, produce overflow error and exit.
+
+Step 3 − If the queue is not full, increment rear pointer to point the next empty space.
+
+Step 4 − Add data element to the queue location, where the rear is pointing.
+
+Step 5 − return success.
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Algorithm for dequeue operation
+procedure dequeue
+   
+   if queue is empty
+      return underflow
+   end if
+
+   data = queue[front]
+   front ← front + 1
+   return true
+
+end procedure
+12/9/22, 10:04 PM - Sangam Bhai 315 Cu: Step 1 − Check if the queue is empty.
+
+Step 2 − If the queue is empty, produce underflow error and exit.
+
+Step 3 − If the queue is not empty, access the data where front is pointing.
+
+Step 4 − Increment front pointer to point to the next available data element.
+
+Step 5 − Return success.
+12/9/22, 10:05 PM - Sangam Bhai 315 Cu: good luuck👍🏼
+12/9/22, 10:17 PM - Rohit Verma: Thanks bhai
+12/19/22, 12:39 AM - Sangam Bhai 315 Cu: 😂
+12/19/22, 12:18 PM - Rohit Verma: 😂😂
+12/19/22, 10:00 PM - Rohit Verma: Sangam bhai kha ho ghar ya hostel
+12/19/22, 10:57 PM - Sangam Bhai 315 Cu: yahi hostel mein hi hun 
+FEb mein jaunga ghar..
+12/19/22, 10:58 PM - Rohit Verma: Feb tk hostel m hi
+12/19/22, 10:58 PM - Sangam Bhai 315 Cu: haan
+12/19/22, 10:58 PM - Sangam Bhai 315 Cu: pechle sem jo paap kiya h unko suhdhaar raha hun
+12/19/22, 10:59 PM - Rohit Verma: Sudhaar rhe ho
+12/19/22, 10:59 PM - Sangam Bhai 315 Cu: hmm
+12/19/22, 10:59 PM - Rohit Verma: Soch to m bhi rha hu pr ho ni rhs kuch
+12/19/22, 10:59 PM - Sangam Bhai 315 Cu: start krde
+dhere dhere ho jayega .....
+12/19/22, 11:00 PM - Sangam Bhai 315 Cu: kyunki isske baad koi khali samay nahi milega
+12/19/22, 11:00 PM - Rohit Verma: M bhi dekhta hu jan m hi aau wapis set krne sb
+12/19/22, 11:00 PM - Rohit Verma: Hmm ye to h
+12/19/22, 11:00 PM - Sangam Bhai 315 Cu: hmm jarror
+12/19/22, 11:00 PM - Rohit Verma: Bs phle adjust hoju shi se
+12/19/22, 11:00 PM - Rohit Verma: Uske baad sb hojega shi
+12/19/22, 11:01 PM - Sangam Bhai 315 Cu: bas focus karna padhai par next sem k baad 
+internship start hone lagte h...
+12/19/22, 11:01 PM - Sangam Bhai 315 Cu: so get ready...
+12/19/22, 11:01 PM - Sangam Bhai 315 Cu: enjoy your stay bro..
+12/19/22, 11:02 PM - Rohit Verma: Hmm
+12/19/22, 11:02 PM - Rohit Verma: Bhai
+12/19/22, 11:02 PM - Sangam Bhai 315 Cu: bye bye👋🏻
+12/19/22, 11:02 PM - Sangam Bhai 315 Cu: goodnight
+12/19/22, 11:02 PM - Rohit Verma: Bs sath dete rho mera bhi bhala hojega thoda
+12/19/22, 11:02 PM - Rohit Verma: Gd night bro
+12/19/22, 11:03 PM - Sangam Bhai 315 Cu: ye puchne k baat h..
+jarroor bhai👍🏻
+12/27/22, 10:02 PM - Sangam Bhai 315 Cu: 🎊🎊Happy birthday 🎉🎈🎉 brother..🎊🎊
+12/27/22, 10:03 PM - Sangam Bhai 315 Cu: Areee tujhe ye bhi jaadu kahte h🤣😹😹
+12/27/22, 10:27 PM - Rohit Verma: Hmm bhai
+12/27/22, 10:35 PM - Rohit Verma: Thank you very much bhai....❤️💕
+1/4/23, 12:02 AM - Sangam Bhai 315 Cu: Aankhe
+1/4/23, 12:03 AM - Sangam Bhai 315 Cu: Mujhe ye pata h kyunk mein bahut sota hun🤣🤣
+1/4/23, 9:29 AM - Rohit Verma: 🤣🤣
+1/9/23, 3:29 PM - Rohit Verma: Sangam bhai hostel m hi ho kya abhi bhi
+1/9/23, 3:42 PM - Sangam Bhai 315 Cu: Han🥲💤💤💤
+1/12/23, 12:53 AM - Rohit Verma: Sangam bhai vo link send krde mega wala
+1/16/23, 11:17 PM - Sangam Bhai 315 Cu: Play chess with me? I play on Chess.com as "64Meow". Sign up for free! https://chess.com/register?ref_id=226544073
+1/17/23, 1:30 AM - Rohit Verma: <Media omitted>
+1/17/23, 11:26 PM - Rohit Verma: https://mega.nz/folder/zx1wEIyQ#P2MD-LU00Tv75E-KfcV5DQ/folder/Dx9iBYrI
+1/18/23, 11:00 PM - Rohit Verma: <Media omitted>
+1/26/23, 9:10 PM - Rohit Verma: https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm
+2/7/23, 6:42 PM - Rohit Verma: 21BCS6220
+2/7/23, 6:43 PM - Rohit Verma: 313 nc-2
+2/7/23, 6:43 PM - Rohit Verma: Sangam suman
+2/8/23, 11:58 PM - Rohit Verma: <Media omitted>
+2/8/23, 11:59 PM - Rohit Verma: Sangam bhai ye dekho thik h na
+2/9/23, 12:00 AM - Rohit Verma: Kl chlte h fir ise leke hostel manager ya senior warden k pass
+2/9/23, 1:02 AM - Sangam Bhai 315 Cu: Uid apna likh liya h
+2/9/23, 1:02 AM - Sangam Bhai 315 Cu: ..
+2/9/23, 8:22 AM - Rohit Verma: Are yr
+2/9/23, 8:22 AM - Rohit Verma: 2 likhi thi mne ek m phle uid shi likhi thi
+2/9/23, 11:22 AM - Sangam Bhai 315 Cu: Missed video call
+2/9/23, 4:56 PM - Rohit Verma: <Media omitted>
+2/9/23, 4:56 PM - Rohit Verma: <Media omitted>
+2/9/23, 4:56 PM - Rohit Verma: <Media omitted>
+2/12/23, 5:25 PM - Rohit Verma: https://youtu.be/XK-glnXxERI
+2/12/23, 5:36 PM - Sangam Bhai 315 Cu: http://bit.ly/imuncamp
+2/12/23, 5:36 PM - Sangam Bhai 315 Cu: https://www.studocu.com/in/document/chandigarh-university/computer-science-engneering/worksheet-1-design-and-algorithm/23076139
+
+ye dekh
+2/13/23, 9:34 PM - Rohit Verma: <Media omitted>
+2/13/23, 10:20 PM - Sangam Bhai 315 Cu: Dekh le bro lpu...🤣🤣
+Hayyy
+2/13/23, 10:22 PM - Rohit Verma: Aur kya
+2/13/23, 10:23 PM - Rohit Verma: M phle lpu hi soch rha tha
+2/13/23, 10:23 PM - Rohit Verma: Kismat khrab jo yha aya😂
+2/13/23, 10:23 PM - Sangam Bhai 315 Cu: <Media omitted>
+2/13/23, 10:23 PM - Sangam Bhai 315 Cu: Yahan dekh clearly
+2/13/23, 10:24 PM - Sangam Bhai 315 Cu: <Media omitted>
+2/13/23, 10:26 PM - Rohit Verma: Are nhi nhi
+2/13/23, 10:26 PM - Sangam Bhai 315 Cu: Chal udhar baat kr..mein hW kr raha hun...
+2/13/23, 10:29 PM - Rohit Verma: Acha
+2/20/23, 8:44 PM - Rohit Verma: Kha pr ho
+2/20/23, 11:17 PM - Sangam Bhai 315 Cu: Room mein
+2/22/23, 2:02 PM - Rohit Verma: <Media omitted>
+2/22/23, 6:10 PM - Sangam Bhai 315 Cu: Oh ho 😏
+2/22/23, 10:26 PM - Sangam Bhai 315 Cu: https://rvsony761.github.io/module3_solution/
+2/23/23, 12:48 AM - Rohit Verma: Sangam bhai debit ya credit card chiyw tha merko apka
+2/23/23, 12:51 AM - Rohit Verma: Mera ecommerce transaction k liye valid nhi dikha rha
+2/23/23, 8:27 AM - Sangam Bhai 315 Cu: ??
+2/23/23, 8:28 AM - Sangam Bhai 315 Cu: Le le magar paise nahi h jo
+2/26/23, 4:02 PM - Sangam Bhai 315 Cu: 🗣️ *ANNOUNCEMENT*
+
+*Hello Everyone👋*
+
+*Pregrad* the *Digital Campus* is now here in our College. 
+
+Now, Learn Live with mentors from *Siemens*, *Barclays*, *Finserv*, *Mercedes* and startups. 
+
+*Get Skilled | Get Hired*
+
+*Start your career with Internship (WFH/WFO)/ Freelance*
+
+Eligibility: no criteria
+
+Join the official group for more details
+https://chat.whatsapp.com/EHVqyAzplKoH0RC4d23kNm
+
+Any Query:
+support@pregrad.in
++91 8527006815
+*Share this group link in every class groups of your college and other branches also*
+2/26/23, 4:02 PM - Sangam Bhai 315 Cu: <Media omitted>
+2/26/23, 6:10 PM - Sangam Bhai 315 Cu: Single File Programming Question
+
+Let S be a set of intervals of integers and f(S) be the number of integers x for which there exist an interval T with TES and xx+1ET. In particular, we have that
+
+Given an integer array A of length 2N. Consider a sequence of intervals [1, 1], [12,
+
+r2), IIN, IN] valid if r1<r2<<N, lieri and (11,11,12,12,,IN.IN) is a permutation of
+
+A Find the sum f(([11, r1])u( [12, 12]}U-U( [IN, IN])) modulo 109+7 over all possible sequences of intervals.
+
+Input format
+
+The first line contains one integer-N The next line contains 2N integers-1, A2, A2N
+
+Output format
+
+Output the answer modulo 109+7
+
+Code constraints
+
+1 <= N <= 105
+
+1 <=A1<A2<<A2N<<= 109
+
+Sample testcases
+
+Input 1
+
+Output 1
+
+esc
+
+S
+
+W
+
+E
+
+R
+
+T
+
+4₹
+
+2
+
+5€
+
+66
+2/26/23, 6:24 PM - Sangam Bhai 315 Cu: <Media omitted>
+2/26/23, 6:25 PM - Sangam Bhai 315 Cu: <Media omitted>
+2/26/23, 6:25 PM - Sangam Bhai 315 Cu: <Media omitted>
+2/26/23, 6:25 PM - Sangam Bhai 315 Cu: <Media omitted>
+2/26/23, 6:25 PM - Sangam Bhai 315 Cu: <Media omitted>
+3/2/23, 11:59 PM - Sangam Bhai 315 Cu: https://electrothon.nith.ac.in/
+3/3/23, 12:13 AM - Rohit Verma: https://devfolio.co/@anuj_goyal0809
+3/3/23, 1:12 AM - Sangam Bhai 315 Cu: This message was deleted
+3/3/23, 1:15 AM - Sangam Bhai 315 Cu: mein kal class mein Ppoochta hun priyanshu aur shivam se'
+3/3/23, 1:43 AM - Rohit Verma: Hmm koi ni sangam bhai
+3/3/23, 9:42 PM - Rohit Verma: Sangam bhai ek kaam tha
+3/4/23, 1:40 AM - Sangam Bhai 315 Cu: ??
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:42 PM - Rohit Verma: <Media omitted>
+5/31/23, 10:43 PM - Rohit Verma: <Media omitted>
+6/1/23, 12:26 AM - Rohit Verma: <Media omitted>
+8/13/23, 9:40 PM - Rohit Verma: Hy
+8/14/23, 9:30 PM - Rohit Verma: Orientation m hu
+8/14/23, 9:30 PM - Rohit Verma: Aata ho aaja yr
+8/14/23, 9:32 PM - Sangam Bhai 315 Cu: Thik h
+8/14/23, 9:33 PM - Sangam Bhai 315 Cu: Aa raha hun
+8/14/23, 9:38 PM - Rohit Verma: C3 k gate p
+9/6/23, 10:03 PM - Sangam Bhai 315 Cu: <Media omitted>
+9/6/23, 10:06 PM - Sangam Bhai 315 Cu: <Media omitted>
+10/6/23, 11:33 PM - Rohit Verma: sangam bhai os k notes aur ques dubara bhej de yr
+10/6/23, 11:34 PM - Rohit Verma: mobile se delete hoge aur dubara download nhi hore
+10/6/23, 11:56 PM - Sangam Bhai 315 Cu: <Media omitted>
+10/7/23, 12:08 AM - Rohit Verma: hmm
+10/7/23, 12:08 AM - Rohit Verma: theory question bhi
+10/7/23, 12:12 AM - Sangam Bhai 315 Cu: <Media omitted>
